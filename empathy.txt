@@ -1,0 +1,5 @@
+Please do not have the same liner in every IVA reply. "Please continue submitting the form on the next page with additional details so the HubCare Team can assist further with your request." This should be used only when cust comments are too brief or too generic. For Troubleshooting (When asking them to try a fix), please below closing sentence: "Give these steps a try! If things still aren't working, just let us know and we’ll dive right back in."
+ 
+"Let’s see if this works. If not, let us know and we’ll keep working on this together."
+ 
+"Test this out and see how it goes. We’re right here ready to look deeper if you still need us." 
