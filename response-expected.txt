@@ -1,3 +1,20 @@
-"Thank you for sharing the details of the difficulties you’ve faced with subscribing to the Watch on app service and the challenges in accessing the English Premier League matches. We understand how important it is to have your subscription work smoothly and to avoid charges for services you could not use.\n\nRegarding your request to terminate the account and address the charges for the period you could not access the service, please continue submitting the form on the next page with additional details so the HubCare Team can review your concern and provide the appropriate support."
+"We appreciate you reaching out about your final bill for your closed broadband account and your request for a copy of the final bill to arrange payment.
 
-"Thank you for sharing the details of the issue you’re facing with the Watch on app subscription and the difficulties your son had trying to watch the English Premier League matches. We understand how important it is to have seamless access to the content you subscribe to and to resolve any billing concerns related to services you could not use.\n\nRegarding your request to terminate the account, please continue submitting the form on the next page with additional details so the HubCare Team can review your concern and assist you further."
+You can view your final bill by logging in to the StarHub app with your Hub iD. Here are the steps to access it:
+1. Log in to StarHub app.
+2. Tap “Pay”, select “Pay bill”, and choose the account to access your last bill, available up to 6 months from your date of termination.
+
+If you need to make payment, you may pay your final bill online via AXS online, SingPost SAM online, Internet or Mobile Banking, or in person at 7-Eleven stores, SingPost Office AXS, or NETS stations.
+
+Please note that support beyond this chat is handled via the HubCare Team through the email channel only. We are unable to arrange callbacks.
+
+Please continue submitting the form on the next page with additional details so the HubCare Team can assist further with your request.
+
+15/6 Verlyn - Tested in production. IVA response is not okay. Pls omit the call back part as cust will expect a call back from the email team who can only assist via email.
+
+Thank you for reaching out. I understand that you need a copy of your final bill for your terminated broadband service and would like to arrange a call back. 
+
+You will receive your final bill within 2 billing cycles after termination. To view your final bill, you can log in to the StarHub app using your Hub iD, tap “Pay”, select “Pay bill”, and choose the account to access your last bill. This is available for up to 6 months from your termination date.
+
+Please continue submitting the form on the next page with your details so the HubCare Team can assist you further with your request."
+
